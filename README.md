@@ -1,2 +1,2 @@
 # mangguox
-芒果在线github官方博客
+学习是一种信仰
